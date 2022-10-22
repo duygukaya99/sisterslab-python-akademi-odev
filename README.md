@@ -1,2 +1,2 @@
 # sisterslab-python-akademi-odev
-# verilen ödevler bu repoda toplanıcaktır
+# verilen ödevler bu repoda toplanacaktır
